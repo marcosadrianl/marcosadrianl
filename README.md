@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosadrianl
 - 👀 I’m interested in becoming a professional web developer and Data Analist
-- 🌱 I’m currently learning the web basics as html, css and JS with the head on master React/ReactJS. Also, loving C lang, learnig Python, and why not, some SmallTalk (for academic purpose...).
+- 🌱 I’m currently learning the web basics as html, css and JS with the head on master React/ReactJS. Also, loving C lang and learnig Python.
 - 💞️ I’m looking to collaborate on Developers, who wants to solve problems in a creativity way.
 - 📫 How to reach me: via email at lucas.adrmarcos@gmail.com or mi linkedin profile: [marcosadrianl](https://www.linkedin.com/in/marcosadrianl/)
 - ⚡ Fun fact: bananas happened to have big seeds! 
