@@ -8,6 +8,12 @@
 Working on...:
 - i'm getting started in JS this mont, and want to put everything i learn in use:
   * checkout mi CV generator, where you can make a well structured cv: [Online CV Generator](https://marcosadrianl.github.io/onlineCVgenerator/)
+  * visit me on my [web cv:](https://marcosadrianl.github.io/site/)
+  * my bigest proyect is [Barbify](https://barbify.glownest.app/)
+  * check out my github profile for more!
+ 
+Hey! 
+Do i break the rules of copyright? let me now! i'll fix any issue you encountered with my code! 
 <!---
 marcosadrianl/marcosadrianl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
